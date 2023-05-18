@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4107be67.css",
-    "main.js": "/static/js/main.3ee58ca5.js",
+    "main.css": "/static/css/main.115794f2.css",
+    "main.js": "/static/js/main.7320ea1a.js",
     "static/media/hobbys.png": "/static/media/hobbys.994a6feef008ff730235.png",
     "static/media/heroMatilda.jpg": "/static/media/heroMatilda.ad18511a0ee454ad2a38.jpg",
-    "static/media/aboutBackground.png": "/static/media/aboutBackground.5ef30a5662359fa3d388.png",
+    "static/media/aboutBackground3.svg": "/static/media/aboutBackground3.6a72597f8cda8c9c44163193e4a8c5a9.svg",
     "static/media/spriteWaving.png": "/static/media/spriteWaving.ec70901534d322aafb88.png",
     "static/media/DigitalPhotoWall.png": "/static/media/DigitalPhotoWall.7ae92ec4fb8b69f71d44.png",
     "static/media/Luckan.png": "/static/media/Luckan.072ed93569cb6c43be05.png",
@@ -44,13 +44,13 @@
     "static/media/profil2.png": "/static/media/profil2.8e70adee7422b279a46a.png",
     "static/media/profil1.png": "/static/media/profil1.7cf7f8f43e9723e1fc5a.png",
     "static/media/logga.png": "/static/media/logga.ba6770b10117b57d5344.png",
-    "static/media/ContactBackground.png": "/static/media/ContactBackground.61267630827cbd14550c.png",
     "index.html": "/index.html",
-    "main.4107be67.css.map": "/static/css/main.4107be67.css.map",
-    "main.3ee58ca5.js.map": "/static/js/main.3ee58ca5.js.map"
+    "static/media/contactBackground.svg": "/static/media/contactBackground.de20f47e2d29ee2dd6acbd1e8a342c57.svg",
+    "main.115794f2.css.map": "/static/css/main.115794f2.css.map",
+    "main.7320ea1a.js.map": "/static/js/main.7320ea1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4107be67.css",
-    "static/js/main.3ee58ca5.js"
+    "static/css/main.115794f2.css",
+    "static/js/main.7320ea1a.js"
   ]
 }
